@@ -5,7 +5,7 @@
 
 A friendly, joyful debugger that makes crash analysis fun and understandable! Instead of scary technical jargon, get human-readable explanations with emojis and helpful tips.
 
-![Demo](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+![Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhrYmhkb2l2NGFxZDQ4OWs1azU3ZXFpZ3R3dGllOHVydXF3dnJjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SV5k9Ulnk9LdgYnjbe/giphy.gif)
 
 ## ✨ Features
 
