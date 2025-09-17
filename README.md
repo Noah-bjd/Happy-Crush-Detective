@@ -42,7 +42,7 @@ brew install gdb      # macOS
 ### Command Line Mode
 ```bash
 # Debug a program
-./happy_debugger.py ./your_program arg1 arg2
+./happy_debugger.py ./your_program arg1 arg2 
 
 # Debug a long-running program
 ./happy_debugger.py ./your_server --long [FT_IRC-EXAMPlE]
@@ -67,7 +67,7 @@ brew install gdb      # macOS
    →  XXXX:XXXXX (crashed here)
 
 💡 Hint: Your code called a system function that caused the crash.
-   The system was trying to: free memory
+   The system was trying to: xxxxxx
 
 ✨ Quick tips:
    • Check for null pointers
@@ -104,24 +104,4 @@ Oops! Sorry about that. Please help us fix it:
    - What actually happened
    - Steps to reproduce the issue
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Icons by [Twemoji](https://twemoji.twitter.com/)
-- Inspired by developers who hate cryptic error messages
-
-## 🚀 Alternative Repo Names
-
-If "Happy Crash Detective" isn't available, consider:
-- `debuggy-mcdebugface`
-- `joyful-debugger`
-- `smiley-crash-analyzer`
-- `debug-buddy`
-- `crash-explainer`
-
----
-
-**Happy
+(still needs works tho :shipit: )
